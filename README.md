@@ -164,7 +164,8 @@ Pre-trained weights will be provided soon.
 
 ## 📊 Results & Benchmarking  
 
-![Results](figs/results_table.png)  
+![Results](figs/results_table1.png)  
+![Results](figs/results_table2.png)  
 
 📌 *Higher scores indicate better performance.*  
 
