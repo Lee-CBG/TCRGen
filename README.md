@@ -19,6 +19,20 @@ We evaluate the generated TCRs on:
 
 ---
 
+## 📄 Publication  
+
+**Self-Contemplating In-Context Learning Enhances T Cell Receptor Generation for Novel Epitopes**  
+[Pengfei Zhang](https://github.com/pzhang84)<sup>1</sup>, [Sonal Sujit Prabhu]<sup>1</sup>, [Gloria Grama]<sup>2</sup>, [Seojin Bang](http://seojinb.com/)<sup>3</sup>, [Heewook Lee](https://scai.engineering.asu.edu/faculty/computer-science-and-engineering/heewook-lee/)<sup>1</sup>  
+<sup>1</sup>School of Computing and Augmented Intelligence, Arizona State University, Tempe, AZ 85281  
+<sup>2</sup>School of Life Sciences, Arizona State University, Tempe, AZ 85281  
+<sup>3</sup>Google DeepMind, Mountain View, CA 94043  
+
+Accepted at **Machine Learning in Computational Biology (MLCB 2025)** — Poster presentation, to appear in **PMLR**.  
+
+[📘 Paper](TBA) | [💻 Code](https://github.com/Lee-CBG/TCRGen) | [🧾 Poster (PDF)]()
+
+
+
 ## 📦 Installation
 
 First, create a virtual environment (optional but recommended):
