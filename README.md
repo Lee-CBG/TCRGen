@@ -169,6 +169,14 @@ Pre-trained weights will be provided soon.
 
 📌 *Higher scores indicate better performance.*  
 
+### 🧩 Structural Analysis: Hydrogen-Bond Interactions  
+
+![H-Bond Analysis](figs/results_hbond.png)
+
+To further validate the biological plausibility of generated TCRs, we performed **hydrogen-bond (H-bond) interaction analysis** on representative TCR–epitope complexes.  
+The analysis quantifies interfacial H-bonds between complementarity-determining regions (CDR3 loops) and peptide residues, reflecting the **structural stability and binding specificity** of generated sequences.  
+Generated TCRs exhibiting **comparable or stronger H-bond networks** relative to experimentally solved structures suggest that the model effectively captures **physicochemical constraints** underlying real TCR–pMHC interactions.
+
 ---
 
 ## 📜 Citation
